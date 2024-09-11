@@ -1,12 +1,11 @@
-<h1 align="center"> Hi there, I'm Cravcenco Dmitrii! 👋 </h1>
+<h1 align="center"> Hi, I'm Cravcenco Dmitrii! 👋 </h1>
 <h1 align="center"> An inspired Back-end Developer and future Software Engineer</h1>
-<h2 align="center"> 🚀 Let's Connect! <a href="https://www.linkedin.com/in/dmitrii-cravcenco-818827235/"> LinkedIn </h2>
+<h2 align="center"> 🚀 Let's Connect! <a href="https://www.linkedin.com/in/dmitrii-cravcenco-818827235/"> LinkedIn </a></h2>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dmitriikaban&show_icons=true&locale=en&layout=compact" alt="dmitriikaban" style="width: 49%; height: 200px">
-    <img src="https://leetcard.jacoblin.cool/DmitriiKaban?theme=nord&font=Lexend" alt="dmitriikaban" style="width: 49%; height: 200px">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriiKaban&layout=compact&theme=dark" alt="Top Languages" style="width: 45%; height: auto; display: inline-block;">
+  <img src="https://leetcard.jacoblin.cool/DmitriiKaban?theme=nord&font=Lexend" alt="dmitriikaban" style="width: 45%; height: auto; display: inline-block;">
 </div>
-
 
 <!--
 **DmitriiKaban/DmitriiKaban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
