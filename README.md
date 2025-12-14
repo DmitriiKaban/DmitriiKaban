@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I'm Cravcenco Dmitrii! 👋 </h1>
-<h1 align="center"> An inspired Back-end Developer and future Software Engineer</h1>
+<h1 align="center"> An inspired Software Engineer</h1>
 <h2 align="center"> 🚀 Let's Connect! <a href="https://www.linkedin.com/in/dmitrii-cravcenco-818827235/"> LinkedIn </a></h2>
 
 <p align="center">
